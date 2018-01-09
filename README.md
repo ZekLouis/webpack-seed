@@ -14,11 +14,11 @@ webpack-seed
 
 ## Development env
 
-4.a Run development env
+4. a. Run development env
 
 It will start a server and watch every modification you made to compile them
 
-```npm run dev````
+```npm run dev```
 - Hot reloading is enable
 - Scss compilation
 
@@ -27,7 +27,7 @@ Your server is available on (by default) `http://localhost:8080`
 
 ## Production env
 
-4.b Run prod
+4. b. Run prod
 
 It will build and compile every required files without source map
 Your finished project is ready to be published and available in `/dist/`
