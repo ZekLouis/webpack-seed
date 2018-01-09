@@ -20,7 +20,6 @@ It will start a server and watch every modification you made to compile them
 
 ```npm run dev```
 - Hot reloading is enable
-- Scss compilation
 
 Your server is available on (by default) `http://localhost:8080`
 
